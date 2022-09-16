@@ -1,8 +1,3 @@
-/*Autores: Bernardo Prado, João Paulo, João Pedro Reis, João Machado, Pedro Caillaux
- * Descrição: Carrinho com 4 rodas que funciona com comandos de voz, joystick para 5 funções de locomoção
- * e o celular serve, também, como se fosse um volante. Além disso, o carrinho tem um sensor de distancia
- * que avisa o usuário quando ele está muito próximo de uma colisão.
- */
 //inicializando o bluetooth
 #include  "BluetoothSerial.h"
 #include "string.h"
